@@ -1,2 +1,3 @@
 # rocket-sim
- I am going to build a rocket flight simulator that accounts for air resistance(drag) and mass loss. Then, I will build a sample rocket to test the simulations accuracy.
+ I am going to build a rocket flight simulator that accounts for air resistance(drag) and mass loss. Then, I will build a sample rocket to test the simulations accuracy. The first section of coding is complete, and a very basic flight trajectory calculator has been built, it assumes free fall, doesn't include mass loss, drag, air resistance, and many other factors. There will be improvements at a later date. I would also like to thank my father for taking time out of his day and teach me kinematics.
+ DISCLAIMER - this project utilizes AI to check accuracy and assist in the building process
